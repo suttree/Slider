@@ -1,7 +1,7 @@
 Slider
 ======
 
-[[http://suttree.com/images/Slider.gif]]
+[[screenshot.gif]]
 
 ## DESCRIPTION
 
