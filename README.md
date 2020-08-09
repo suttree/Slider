@@ -1,7 +1,8 @@
-Slider
-======
+# Slider
 
-[![][Icon]]
+A sliding puzzle game written in Python using PyGame.
+
+![Image of Slider](https://github.com/suttree/Slider/blob/master/screenshot.gif?raw=true)
 
 ## DESCRIPTION
 
